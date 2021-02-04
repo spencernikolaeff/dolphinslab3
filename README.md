@@ -1,3 +1,3 @@
 # dolphinslab3
 # Spencer Nikolaeff
-# Ross Panning
+# Ross M. Panning
