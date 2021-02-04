@@ -1,2 +1,6 @@
+# dolphinslab3
 # Project Team Members:
-# Ross M. Panning
+# Spencer Nikolaeff
+# Ross Panning
+# Jack LeGrone
+
