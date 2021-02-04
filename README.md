@@ -1,3 +1,2 @@
-# dolphinslab3
-# Spencer Nikolaeff
+#Project Team Members:
 # Ross M. Panning
